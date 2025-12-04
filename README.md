@@ -1,12 +1,13 @@
-# Personal_Projects
+#David's Personal Projects
 
+```
 @MM#@XXHH@@MM@M##+//++%%%X$$$$$$$%%%%%%%XXXXXX$+/X###MMMM@@@@HHHXXXXX@@@HHHHHHXXXXXX@
 @M##$XHH@@MMMM##;;/++%%%$HX$$$$$$$$$$%%%XXXXX$+/;;;$####MMMM@@@HHHXX@@@@@@HHHHHHXXX$$
 M##X$XHH@@MM###;;/+%%%$$X@@HXXXXXX$$$$$$XXX$%+++//;;;%####MMMM@@@HH@MM@@@@@@HHHHHHXXX
 M#M$XHH@@MM###;;/+%%$$$XH@@@H@HHHXXXXX$$X$$%%%++++//;;;+####MMMM@@@MMMMM@@@@@@HHHHHXX
- #$$HH@@MM###X//+%%$$XXHH@@@H@@H@HHHHHH@@$$$%%%%++++///;;/M####MMMM#MMMMMM@@@@@@HHHHH
- @$XHH@@MM##M$%+%%$$XXH@H@@HHH@HH@@@H@@@@X$$$%%%%%++++///;;;H####M###MMMMMMM@@@@@@HHH
- $XHH@@MM###$$$%%$$XHH@@HH@HX@HH@@@H@@@@@HX$$$$%%%%%++++///;;;$#########MMMMMM@@@@@@H
+M#$$HH@@MM###X//+%%$$XXHH@@@H@@H@HHHHHH@@$$$%%%%++++///;;/M####MMMM#MMMMMM@@@@@@HHHHH
+M@$XHH@@MM##M$%+%%$$XXH@H@@HHH@HH@@@H@@@@X$$$%%%%%++++///;;;H####M###MMMMMMM@@@@@@HHH
+M$XHH@@MM###$$$%%$$XHH@@HH@HX@HH@@@H@@@@@HX$$$$%%%%%++++///;;;$#########MMMMMM@@@@@@H
 MHXH@@MMM##$$XX%$$XHHHH@@$@M@#XX@HHX@@@@@HXXX$$$$%%%%%++++///;;;+#########MMMMMM@@@@@
 M$;%X@MM##M$XXX$$XH@HHHHM@%%%+$#HHXH@@@@HXHXXX$$$$$%%%%%++++///;;%$M########MMMMMM@@@
 M;/%$XHM##+%$$$H@@HH@@XMX+H@H@$%#%XMH@H@X@@HXXXX$$$$$%%%%%+++++//$$$$@########MMMMMM@
@@ -60,10 +61,13 @@ $XH@##;/+%$XHH@@X@M/%@H@H$%#XXH#@XHMHH@@@HX@H@HHXXXXXXX$$$$$$%%%%$XXXXXXX$$$H###
 XHH@@MM##M$$+%%$$$XXXH@H@@HHHXXXXXXXX$$XH@$$$%%%%%%+++++///;;;;@########MMMMMM@@@@@@H
 XXHH@@MM##@$/++%%$$$XXH@@@XXXXXXXX$$$$$$$XX%%%%%%+++++///;;;+####MM###MMMMMMM@@@@@HHH
 H$XH@@MMM##@;;++%%%$$$$HH$$$$$$$$$$$$$%%%XXX$%++++++///;;;X####MMMMMMMMMMM@@@@@@HHHHH
- $XHH@@MM###@;;/++%%%%%$$$$$$$$$$%%%%%%%%XXXX$+++///;;;/M####MMMM@@@MMMM@@@@@@@HHHHHX
- M$XHH@@MM####;;/++++%$XX%%%%%%%%%%%%%%+$XXXXXX+/;;;;X####MMMM@@@@HHMMM@@@@@@HHHHHXXX
+M$XHH@@MM###@;;/++%%%%%$$$$$$$$$$%%%%%%%%XXXX$+++///;;;/M####MMMM@@@MMMM@@@@@@@HHHHHX
+MM$XHH@@MM####;;/++++%$XX%%%%%%%%%%%%%%+$XXXXXX+/;;;;X####MMMM@@@@HHMMM@@@@@@HHHHHXXX
 M#X$XHH@@MMMM##X;;//+%XXX$%%%%%+++++++++$XXXXX$$+;%#####MMMM@@@@HHH/%%+H%%$X%$+++%%%X
 M##XXHHH@@M@@MM#M$///$XXXX+++++++++++///XXXX$$XHM#### JUAN LUIS MARTÍNEZ XX$XX$X$$$$H
+
+```
+
 
 
 Welcome to my personal projects repository, please feel free to dive into it <@:~)
